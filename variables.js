@@ -1,0 +1,10 @@
+var famousPerson = "Adele";
+var isActive = true;
+famousPerson = "Beyonce";
+var num3 = 3;
+var num9 = 9;
+var sum = num3 + num9;
+var animals = ['dog', 'cat', 'monkey'];
+animals.shift();
+console.log(famousPerson.length);
+//console.log(animals);
